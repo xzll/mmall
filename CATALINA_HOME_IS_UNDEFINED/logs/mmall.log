@@ -1,0 +1,94 @@
+[16:06:33.680][INFO][com.mmall.util.JsonUtil][main] testPojoJson:{"name":"Geely","id":666}
+[16:06:33.716][INFO][com.mmall.util.JsonUtil][main] end
+[16:06:33.728][INFO][com.mmall.util.JsonUtil][main] userJson:{
+  "id" : 2,
+  "username" : null,
+  "password" : null,
+  "email" : "geely@happymmall.com",
+  "phone" : null,
+  "question" : null,
+  "answer" : null,
+  "role" : null,
+  "createTime" : "2018-08-02 16:06:33",
+  "updateTime" : null
+}
+[16:15:53.493][INFO][com.mmall.util.JsonUtil][main] testPojoJson:{"name":"Geely","id":666}
+[16:15:54.856][INFO][com.mmall.util.JsonUtil][main] end
+[16:19:21.619][INFO][com.mmall.util.JsonUtil][main] testPojoJson:{"name":"Geely","id":666}
+[16:19:21.992][INFO][com.mmall.util.JsonUtil][main] end
+[16:20:30.470][INFO][com.mmall.util.JsonUtil][main] user1Json:{"id":1,"username":null,"password":null,"email":"geelyu1@happymmall.com","phone":null,"question":null,"answer":null,"role":null,"createTime":null,"updateTime":null}
+[16:20:31.256][INFO][com.mmall.util.JsonUtil][main] user1JsonPretty:{
+  "id" : 1,
+  "username" : null,
+  "password" : null,
+  "email" : "geelyu1@happymmall.com",
+  "phone" : null,
+  "question" : null,
+  "answer" : null,
+  "role" : null,
+  "createTime" : null,
+  "updateTime" : null
+}
+[16:21:22.999][INFO][com.mmall.util.JsonUtil][main] ==================
+[16:21:23.367][INFO][com.mmall.util.JsonUtil][main] [ {
+  "id" : null,
+  "username" : null,
+  "password" : null,
+  "email" : null,
+  "phone" : null,
+  "question" : null,
+  "answer" : null,
+  "role" : null,
+  "createTime" : null,
+  "updateTime" : null
+}, {
+  "id" : 1,
+  "username" : null,
+  "password" : null,
+  "email" : "geelyu1@happymmall.com",
+  "phone" : null,
+  "question" : null,
+  "answer" : null,
+  "role" : null,
+  "createTime" : null,
+  "updateTime" : null
+} ]
+[16:23:05.915][INFO][com.mmall.util.JsonUtil][main] testPojoJson:{"name":"Geely","id":666}
+[16:23:06.310][INFO][com.mmall.util.JsonUtil][main] end
+[16:23:09.616][INFO][com.mmall.util.JsonUtil][main] user1Json:{"id":2,"username":null,"password":null,"email":"geelyu2@happymmall.com","phone":null,"question":null,"answer":null,"role":null,"createTime":null,"updateTime":null}
+[16:23:09.974][INFO][com.mmall.util.JsonUtil][main] user1JsonPretty:{
+  "id" : 2,
+  "username" : null,
+  "password" : null,
+  "email" : "geelyu2@happymmall.com",
+  "phone" : null,
+  "question" : null,
+  "answer" : null,
+  "role" : null,
+  "createTime" : null,
+  "updateTime" : null
+}
+[16:23:13.863][INFO][com.mmall.util.JsonUtil][main] ==================
+[16:23:14.526][INFO][com.mmall.util.JsonUtil][main] [ {
+  "id" : 1,
+  "username" : null,
+  "password" : null,
+  "email" : "geelyu1@happymmall.com",
+  "phone" : null,
+  "question" : null,
+  "answer" : null,
+  "role" : null,
+  "createTime" : null,
+  "updateTime" : null
+}, {
+  "id" : 2,
+  "username" : null,
+  "password" : null,
+  "email" : "geelyu2@happymmall.com",
+  "phone" : null,
+  "question" : null,
+  "answer" : null,
+  "role" : null,
+  "createTime" : null,
+  "updateTime" : null
+} ]
